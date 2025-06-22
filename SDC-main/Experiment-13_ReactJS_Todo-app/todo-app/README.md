@@ -24,7 +24,7 @@ todo-app/
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation
 
-
+![Image](https://github.com/user-attachments/assets/97e6f071-3ec4-455f-98fe-30310e40c9cf)
 
 INSTALLATION & SETUP
 PREREQUISITES  
