@@ -24,9 +24,7 @@ student_mgmt/
 ├── db.sqlite3 # SQLite database file
 ├── manage.py # Django project management script
 └── README.md # Project documentation
-
-
-     
+![Image](https://github.com/user-attachments/assets/cb7293e1-7b25-4138-9515-3755dfafd2     
 INSTALLATION & SETUP 
 PREREQUISITES  
 •	Python 3.x  
