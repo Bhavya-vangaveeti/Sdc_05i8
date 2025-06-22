@@ -20,8 +20,7 @@ weather-app/
 ├── settings.py            # Django project settings
 │
 └── README.md              # Project documentation
-
-
+![Image](https://github.com/user-attachments/assets/348bd8e1-fac4-4480-829b-fb4364a75c34)
  
 INSTALLATION & SETUP
 PREREQUISITES
