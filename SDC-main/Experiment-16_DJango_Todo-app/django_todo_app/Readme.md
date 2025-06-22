@@ -31,9 +31,7 @@ django_todo_app/
 ├── db.sqlite3 # SQLite database
 ├── manage.py # Django management script
 └── README.md # Project documentation
-
- 
- 
+![Image](https://github.com/user-attachments/assets/fd4ebd67-a9c5-457e-a2a8-eb554475a5dd)
 INSTALLATION & SETUP PREREQUISITES  
 •	Python 3.8+  
 •	pip (Python package installer)  
