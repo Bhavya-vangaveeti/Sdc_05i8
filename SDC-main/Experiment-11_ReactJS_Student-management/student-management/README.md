@@ -25,6 +25,7 @@ student-management-react/
 │
 ├── package.json             # Project metadata and dependencies
 └── README.md                # Project documentation
+![Image](https://github.com/user-attachments/assets/7926f72d-7cf1-4383-b18b-a1d2f3567cc2)
 
 
  
