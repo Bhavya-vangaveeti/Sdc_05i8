@@ -28,7 +28,7 @@ shopping-cart/
 ├── README.md                       # Project documentation
 
 
-  
+  ![Image](https://github.com/user-attachments/assets/45fa3348-92f7-40a9-928b-5dd772e03657)
 INSTALLATION & SETUP
 PREREQUISITIES
 •	Java JDK
